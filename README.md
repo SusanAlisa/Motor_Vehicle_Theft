@@ -14,6 +14,10 @@
 ### Project Overview
 This project explores motor vehicle theft trends in New Zealand to uncover patterns, identify high-risk locations, and provide insights that can guide crime prevention strategies and policy decisions.
 
+[Dashboard](dashboard-stolen-vehicle)
+
+<img width="718" height="360" alt="Dashboard stolen vehicle" src="https://github.com/user-attachments/assets/e4a7c54b-9a9d-4f17-a55c-c1ce228ba03c" />
+
 ### Data Sources
 Motor Vehicle Theft CSV Dataset Folder "Motor + Vehicle + Theft +CSV"– containing detailed records of stolen vehicles across New Zealand.
 
