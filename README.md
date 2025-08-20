@@ -103,7 +103,8 @@ Returns Location_Name from Column 2
 
 ### Limitations
 While this project provides useful insights into motor vehicle theft patterns, the dataset has limitations including missing values, duplicate records, absence of recovery data, and limited geographic/time detail. These constraints mean the analysis is primarily descriptive, and further insights would require more complete, granular, and contextual data.
-
+💻
+📊
 
 
   
